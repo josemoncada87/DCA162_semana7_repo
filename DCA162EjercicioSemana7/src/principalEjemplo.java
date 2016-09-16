@@ -7,7 +7,9 @@ public class principalEjemplo {
 		/**
 		 * me encanta la clase algoritmos.... <3
 		 * */
-
+		/*
+		 * Perderé algoritmos, aiudaaaa ._.
+		 */
 	}
 
 }
