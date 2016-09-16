@@ -22,7 +22,7 @@ public class principalEjemplo {
 		 * Perderé algoritmos, aiudaaaa ._.
 
 		 */
-		int slvskndlvls;
+		int slvskndlvs;
 	}
 
 }
