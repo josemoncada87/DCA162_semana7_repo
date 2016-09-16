@@ -5,7 +5,9 @@ public class principalEjemplo {
 		System.out.println("hallo");
 		
 		/**
-		 * me encanta la clase algoritmos.... <3
+		 * Es increible como ... me encanta la clase algoritmos.... <3
+		 * 
+		 * 
 		 * */
 		/*
 		 * Perderé algoritmos, aiudaaaa ._.
